@@ -1,0 +1,118 @@
+        body {
+            color: white;
+
+        }
+
+        header {
+            background-color: rgb(0, 0, 255);
+            width: 500px;
+            height: 60px;
+        }
+
+
+        footer {
+            background-color: rgb(255, 165, 0);
+            width: 500px;
+            height: 50px;
+        }
+
+        table {
+            width:500px
+        }
+
+        #cel11 {
+            background-color: rgb(15, 0, 254);
+        }
+
+        #cel11txt {
+            background-color: rgb(79, 40, 191);
+        }
+
+        #cel12 {
+            background-color: rgb(31, 10, 239);
+        }
+
+        #cel13 {
+            background-color: rgb(47, 20, 223);
+        }
+
+        #cel13txt {
+            background-color: rgb(111, 60, 159);
+        }
+
+
+        #cel14 {
+            background-color: rgb(63, 30, 207);
+        }
+
+        #cel21 {
+            background-color: rgb(79, 40, 191);
+        }
+
+        #cel21txt {
+            background-color: rgb(143, 80, 127);
+        }
+
+        #cel22 {
+            background-color: rgb(95, 50, 175);
+        }
+
+        #cel23 {
+            background-color: rgb(111, 60, 159);
+        }
+
+        #cel23txt {
+            background-color: rgb(175, 100, 95);
+        }
+
+        #cel24 {
+            background-color: rgb(127, 70, 143);
+        }
+
+        #cel31 {
+            background-color: rgb(143, 80, 127);
+        }
+
+        #cel31txt {
+            background-color: rgb(207, 120, 63);
+        }
+
+        #cel32 {
+            background-color: rgb(159, 90, 111);
+        }
+
+        #cel33 {
+            background-color: rgb(175, 100, 95);
+        }
+
+        #cel33txt {
+            background-color: rgb(238, 140, 31);
+        }
+
+        #cel34 {
+            background-color: rgb(191, 110, 79);
+        }
+
+        #cel41 {
+            background-color: rgb(207, 120, 63);
+        }
+
+        #cel41txt {
+            background-color: rgb(15, 0, 254);
+        }
+
+        #cel42 {
+            background-color: rgb(223, 130, 47);
+        }
+
+        #cel43 {
+            background-color: rgb(238, 140, 31);
+        }
+
+        #cel43txt {
+            background-color: rgb(47, 20, 223);
+        }
+
+        #cel44 {
+            background-color: rgb(254, 150, 16);
+        }
